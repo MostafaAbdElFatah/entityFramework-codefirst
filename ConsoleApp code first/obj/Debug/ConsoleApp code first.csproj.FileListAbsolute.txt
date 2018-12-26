@@ -1,0 +1,12 @@
+C:\Users\mostafa\Desktop\Projects\ConsoleApp code first\ConsoleApp code first\bin\Debug\ConsoleApp code first.exe.config
+C:\Users\mostafa\Desktop\Projects\ConsoleApp code first\ConsoleApp code first\bin\Debug\ConsoleApp code first.exe
+C:\Users\mostafa\Desktop\Projects\ConsoleApp code first\ConsoleApp code first\bin\Debug\ConsoleApp code first.pdb
+C:\Users\mostafa\Desktop\Projects\ConsoleApp code first\ConsoleApp code first\bin\Debug\EntityFramework.dll
+C:\Users\mostafa\Desktop\Projects\ConsoleApp code first\ConsoleApp code first\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mostafa\Desktop\Projects\ConsoleApp code first\ConsoleApp code first\bin\Debug\EntityFramework.xml
+C:\Users\mostafa\Desktop\Projects\ConsoleApp code first\ConsoleApp code first\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mostafa\Desktop\Projects\ConsoleApp code first\ConsoleApp code first\obj\Debug\ConsoleApp code first.csprojAssemblyReference.cache
+C:\Users\mostafa\Desktop\Projects\ConsoleApp code first\ConsoleApp code first\obj\Debug\ConsoleApp code first.csproj.CoreCompileInputs.cache
+C:\Users\mostafa\Desktop\Projects\ConsoleApp code first\ConsoleApp code first\obj\Debug\ConsoleApp code first.csproj.CopyComplete
+C:\Users\mostafa\Desktop\Projects\ConsoleApp code first\ConsoleApp code first\obj\Debug\ConsoleApp code first.exe
+C:\Users\mostafa\Desktop\Projects\ConsoleApp code first\ConsoleApp code first\obj\Debug\ConsoleApp code first.pdb
